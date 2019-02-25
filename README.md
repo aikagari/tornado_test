@@ -5,5 +5,5 @@ use vars.sh for environment variable
 # Requirements
 
 Python 3.6+  
-tornado == 5.1.1
+tornado == 5.1.1  
 aioredis == 1.2.0
